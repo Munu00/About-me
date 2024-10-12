@@ -18,9 +18,9 @@
 ![3D Animation](https://img.shields.io/badge/3D%20Animation-Learning-red)
 
 ## GitHub Stats
-![Munu's GitHub stats](https://github-readme-stats.vercel.app/api?munu=Munu00&show_icons=true&theme=radical)
+![Munu's GitHub stats](https://github-readme-stats.vercel.app/api?munu00=Munu&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?munu=Munu00&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?munu00=Munu&layout=compact&theme=radical)
 
 ## Projects
 ### 🎨 [Nature-Inspired Digital Art](LINK TO PROJECT)
