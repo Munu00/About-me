@@ -1,4 +1,3 @@
-# Hi, I'm Munu 👋
 **Artist | Aspiring Web Developer | Graphic Designer**
 
 ---
@@ -30,5 +29,5 @@
 - A portfolio website created using HTML, CSS, and JavaScript, showcasing my design skills.
 
 ## Connect with Me
-- Instagram: [@munu_art](https://www.instagram.com/munu_art)
-- LinkedIn: [@munu](https://www.linkedin.com/in/munu/)
+- Instagram: [@munu.ili](https://www.instagram.com/munu.ili)
+- Discord: [@munu99](https://discord.com/invite/JwGndYTMx9)
