@@ -1,24 +1,34 @@
-### About Me
-
-Hello! I'm **Aadarsh Chaudhari** (Munu), a self-taught artist and designer with a deep passion for creativity and technology. Over the past **1.5 years**, I’ve gained hands-on experience in a variety of fields, from **traditional & digital drawing** to **graphic design**. Despite working primarily on a phone, I’ve built a strong foundation in both **art** and **design**.
-
-### What I Do
-- **Traditional & Digital Drawing**: Crafting detailed, nature-inspired illustrations.
-- **Graphic Design**: Intermediate-level experience in creating visual content.
-- **Web Design**: Basic understanding of building user-friendly interfaces.
-- **2D Animation**: Intermediate skills in bringing designs to life through animation.
-- **3D Animation**: Currently expanding my knowledge in this area.
-
-### My Journey
-With no formal training, I’ve built my skills through determination and consistent practice. I believe in the power of learning by doing, and I’m always exploring new techniques to elevate my craft. 
-
-### Interests
-I love exploring **new ideas** and diving deep into **nature-themed artwork**. I am also passionate about **personal growth** and aim to combine my love for art and entrepreneurship to launch unique projects in the future.
-
-### Looking for Opportunities
-I’m currently open to opportunities in the **art and design** fields. Whether it’s freelance work, collaborations, or full-time roles, I’m eager to contribute to innovative projects and continue growing as a creative professional.
+# Hi, I'm Munu 👋
+**Artist | Aspiring Web Developer | Graphic Designer**
 
 ---
 
-**Let’s connect!**  
-Feel free to reach out if you'd like to collaborate or discuss exciting creative ideas.
+## About Me
+- 🌱 I’m currently learning **3D Animation** and expanding my skills in web development.
+- 💻 I have **1.5 years of experience** in drawing and graphic design, all done on my phone!
+- 🎯 My goal is to build a personal brand and eventually become an entrepreneur.
+- 🌍 Based in Surat, Gujarat, India.
+
+## Skills
+![HTML Badge](https://img.shields.io/badge/HTML-Intermediate-orange)
+![CSS Badge](https://img.shields.io/badge/CSS-Intermediate-blue)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-Intermediate-green)
+![2D Animation](https://img.shields.io/badge/2D%20Animation-Intermediate-yellowgreen)
+![3D Animation](https://img.shields.io/badge/3D%20Animation-Learning-red)
+
+## GitHub Stats
+![Munu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+## Projects
+### 🎨 [Nature-Inspired Digital Art](LINK TO PROJECT)
+- A series of nature-themed digital artworks designed using my phone.
+
+### 🌐 [Simple Web Portfolio](LINK TO PROJECT)
+- A portfolio website created using HTML, CSS, and JavaScript, showcasing my design skills.
+
+## Connect with Me
+- Instagram: [@munu_art](https://www.instagram.com/munu_art)
+- LinkedIn: [@munu](https://www.linkedin.com/in/munu/)
