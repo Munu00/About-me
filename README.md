@@ -1,3 +1,4 @@
+# Hi, I'm Munu 👋
 **Artist | Aspiring Web Developer | Graphic Designer**
 
 ---
@@ -17,9 +18,9 @@
 ![3D Animation](https://img.shields.io/badge/3D%20Animation-Learning-red)
 
 ## GitHub Stats
-![Munu's GitHub stats](https://github-readme-stats.vercel.app/api?Munu00=Munu&show_icons=true&cyber=radical)
+![Munu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munu00&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Munu00=Munu&layout=compact&Cyber=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munu00&layout=compact&theme=radical)
 
 ## Projects
 ### 🎨 [Nature-Inspired Digital Art](LINK TO PROJECT)
